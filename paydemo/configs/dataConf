@@ -1,0 +1,18 @@
+[DEFAULT]
+HOMEURL = https://opensource-demo.orangehrmlive.com/
+
+[general]
+grafana_tag = QA
+project_key = TSIN
+version_id = -1
+cycle_id = -1
+
+[AUTH]
+USERNAME = Admin
+PASSWORD = admin123
+
+[XPATH]
+DATATABLE = //fieldset[@id='panel_resizable_1_1']
+
+[DRIVER]
+WEBDRIVER = firefox
